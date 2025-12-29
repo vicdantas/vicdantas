@@ -22,6 +22,7 @@ Gosto de resolver problemas reais, otimizar performance e criar experiências si
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![Magento](https://img.shields.io/badge/-Magento-EE672F?style=flat&logo=magento&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify)
 
